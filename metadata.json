@@ -1,0 +1,6 @@
+{
+  "name": "Luminous Horizon",
+  "description": "Horizon lets you build beautiful cloud-native applications in minutes using an airy, minimalist workspace designed for seamless AI integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
